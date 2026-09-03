@@ -1,4 +1,5 @@
 {
     "version": "1.0.26.12",
-    "url": "https://raw.githubusercontent.com/maksbit/emerson-releases/refs/heads/main/esp32-s3-w5500/firmware.bin"
+    "url": "https://raw.githubusercontent.com/maksbit/emerson-releases/refs/heads/main/esp32-s3-w5500/firmware.bin",
+    "sha256": "364a73e9d703014237cf827f682bd76b970b018e06f394c6bf9101ab5d91488b"
 }
